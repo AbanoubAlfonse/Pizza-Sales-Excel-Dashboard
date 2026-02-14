@@ -24,6 +24,3 @@ The goal is to understand:
 ## 📂 Files
 - Excel file with interactive dashboard
 - Dashboard preview image
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](./pizzadashboard.png)
