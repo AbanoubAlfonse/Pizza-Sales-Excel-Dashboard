@@ -26,4 +26,4 @@ The goal is to understand:
 - Dashboard preview image
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./screenshot.png)
+![Dashboard Screenshot](./pizza dashboard.png)
